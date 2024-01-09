@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-     <p>hello</p>
+     <h1>The Image Search</h1>
     </>
   )
 }
