@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-     <h1 className='primary'>The Image Search</h1>
+     <h1 className='text-dark'>The Image Search</h1>
     </>
   )
 }
